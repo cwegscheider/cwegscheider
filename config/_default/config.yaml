@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "Carsten Wegscheider" # Website name
+title: 'Carsten Wegscheider' # Website name
 baseurl: 'https://cwegscheider.com/' # Website URL
 copyright: '@ {year} Carsten Wegscheider' # Footer text, e.g. '© {year} Me'
 
