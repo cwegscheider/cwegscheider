@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: "Rose"
+theme: "Mr Robot"
 day_night: true
-font: ''
+font: 'minimal'
 font_size: L
 
 # SEO
