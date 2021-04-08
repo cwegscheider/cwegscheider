@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: "Ocean"
+theme: "Minimal"
 day_night: true
-font: 'minimal'
+font: ''
 font_size: L
 
 # SEO
