@@ -1,6 +1,7 @@
 ---
 title: Carsten Wegscheider
 role: PhD Fellow
+avatar_filename: bild_sw2.jpg
 bio: ""
 interests: []
 social:
