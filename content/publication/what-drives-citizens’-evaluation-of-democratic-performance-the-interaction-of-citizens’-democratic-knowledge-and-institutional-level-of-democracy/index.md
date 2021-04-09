@@ -8,6 +8,8 @@ authors:
   - admin
   - Toralf Stark
 doi: https://doi.org/10.1007/s12286-020-00467-0
+publication: Zeitschrift für Vergleichende Politikwissenschaft
+publication_short: ZfVP
 abstract: Alongside citizens’ belief in the legitimacy of democracy, public
   support for the political regime is crucial to the survival of (democratic)
   political systems. Yet, we know fairly little about the relationship between
@@ -34,8 +36,8 @@ abstract: Alongside citizens’ belief in the legitimacy of democracy, public
 draft: false
 featured: true
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-04-09T12:51:43.013Z
+date: 2020-11-20T13:51:00.000Z
 ---
