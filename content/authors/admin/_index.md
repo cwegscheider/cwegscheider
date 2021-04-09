@@ -4,7 +4,11 @@ role: PhD Fellow
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Comparative Politics
+  - Comparative politics
+  - Democratization
+  - Political parties
+  - Democratic attitudes
+  - Political behavior
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,14 +34,14 @@ social:
     icon: publons
   - display:
       header: false
-    link: '"media/demo_resume.pdf"'
-    icon_pack: ai
-    icon: cv
-  - display:
-      header: false
     icon_pack: ai
     icon: orcid
     link: https://orcid.org/0000-0002-5425-7595
+  - display:
+      header: false
+    link: '"media/demo_resume.pdf"'
+    icon_pack: ai
+    icon: cv
 organizations:
   - name: Departement of Political Science University of Salzburg
     url: https://www.plus.ac.at/political-science-and-sociology/department-of-political-science/?lang=en
