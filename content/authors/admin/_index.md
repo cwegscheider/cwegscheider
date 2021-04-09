@@ -2,8 +2,8 @@
 title: Carsten Wegscheider
 role: PhD Fellow
 avatar_filename: avatar.jpg
-bio: "I am a political scientist and PhD Fellow at the Departement of Political
-  Science of the University of Salzburg. "
+bio: "Political scientist at the Department of Political Science of the
+  University of Salzburg. "
 interests:
   - Comparative politics
   - Democratization
@@ -45,7 +45,7 @@ social:
     icon_pack: ai
     icon: cv
 organizations:
-  - name: Departement of Political Science University of Salzburg
+  - name: Department of Political Science University of Salzburg
     url: https://www.plus.ac.at/political-science-and-sociology/department-of-political-science/?lang=en
 education:
   courses:
@@ -62,6 +62,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a political scientist and PhD Fellow at the Departement of Political Science of the University of Salzburg. My main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. In my dissertation, I am working on the relationship between citizens' conceptions of democracy, democratic discontent and voting behavior.
+I am a political scientist at the Department of Political Science of the University of Salzburg. My main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. In my dissertation, I am working on the relationship between citizens' conceptions of democracy, democratic discontent and voting behavior.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
