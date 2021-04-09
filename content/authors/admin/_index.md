@@ -1,6 +1,6 @@
 ---
 title: Carsten Wegscheider
-role: PhD Fellow
+role: Doctoral Researcher
 avatar_filename: avatar.jpg
 bio: "Political scientist at the Department of Political Science of the
   University of Salzburg. "
@@ -45,7 +45,7 @@ social:
     icon_pack: ai
     icon: cv
 organizations:
-  - name: Department of Political Science University of Salzburg
+  - name: University of Salzburg
     url: https://www.plus.ac.at/political-science-and-sociology/department-of-political-science/?lang=en
 education:
   courses:
