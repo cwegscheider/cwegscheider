@@ -8,11 +8,7 @@ external_link: https://www.researchgate.net/project/Citizens-Conceptions-of-Demo
 url_slides: ""
 title: Citizens' Conceptions of Democracy and Support for Radical Populist Parties
 tags: []
-links:
-  - icon: researchgate
-    icon_pack: ai
-    name: Follow
-    url: https://www.researchgate.net/project/Citizens-Conceptions-of-Democracy-and-Support-for-Radical-Populist-Parties
+links: []
 image:
   caption: ""
   focal_point: Smart
