@@ -18,6 +18,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/cwegscheider
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Carsten-Wegscheider
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: Departement of Political Science University of Salzburg
     url: https://www.plus.ac.at/political-science-and-sociology/department-of-political-science/?lang=en
