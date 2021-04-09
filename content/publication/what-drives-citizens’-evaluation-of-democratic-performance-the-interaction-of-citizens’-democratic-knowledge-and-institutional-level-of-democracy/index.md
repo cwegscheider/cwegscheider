@@ -8,7 +8,7 @@ authors:
   - admin
   - Toralf Stark
 doi: https://doi.org/10.1007/s12286-020-00467-0
-publication: In *Zeitschrift für Vergleichende Politikwissenschaft*
+publication: "*Zeitschrift für Vergleichende Politikwissenschaft*"
 publication_short: ""
 abstract: Alongside citizens’ belief in the legitimacy of democracy, public
   support for the political regime is crucial to the survival of (democratic)
