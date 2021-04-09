@@ -24,11 +24,11 @@ email: carsten.wegscheider@sbg.ac.at
 phone: +43 (0)662 8044 6606
 address:
   street: Rudolfskai 42
-  postcode: '5020'
-  city: 'Salzburg'
-  region: 'Austria'
-  country: 'Austria'
- country_code: 'AT'
+  postcode: '5020 Salzburg, Austria'
+  city: ''
+  region: ''
+  country: ''
+ country_code: ''
 # coordinates:
  # latitude: ''
   #longitude: ''
@@ -50,7 +50,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: "de"
+address_format: "en-us"
 
 # Site features
 
