@@ -39,8 +39,8 @@ address:
 
 main_menu:
   enable: true
-  align: c
-  show_logo: false
+  align: l
+  show_logo: true
   show_language: false
   show_day_night: true
   show_search: false
