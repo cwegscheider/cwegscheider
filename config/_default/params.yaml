@@ -38,7 +38,7 @@ address:
 # Site header
 
 main_menu:
-  enable: false
+  enable: true
   align: c
   show_logo: false
   show_language: false
