@@ -25,9 +25,9 @@ phone: +43 (0) 662 / 8044-6606
 address:
   street: Rudolfskai 42
   city: Salzburg
-  region: 'Austria'
-  postcode: '5020'
-  country: 'Austria'
+  region: 
+  postcode: '5020, Austria'
+  country: 
  # country_code: AT
 # coordinates:
  # latitude: ''
