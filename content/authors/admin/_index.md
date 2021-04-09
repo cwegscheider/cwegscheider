@@ -2,10 +2,12 @@
 title: Carsten Wegscheider
 role: PhD Fellow
 avatar_filename: avatar.jpg
-bio: ""
+bio: "I am a political scientist and PhD Fellow at the Departement of Political
+  Science of the University of Salzburg. "
 interests:
   - Comparative politics
   - Democratization
+  - Elections
   - Political parties
   - Democratic attitudes
   - Political behavior
@@ -47,17 +49,19 @@ organizations:
     url: https://www.plus.ac.at/political-science-and-sociology/department-of-political-science/?lang=en
 education:
   courses:
+    - course: PhD Political Science
+      institution: University of Salzburg
+      year: ""
     - course: MA Theory and Comparative Studies of Political Systems in Transition
       institution: University of Duisburg-Essen
-      year: 2017
+      year: 2
     - course: BA Political Science
       institution: University of Duisburg-Essen
-      year: 2014
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
 ---
-I am a political scientist and PhD Fellow at the Departement of Political Science of the University of Salzburg.
-
+I am a political scientist and PhD Fellow at the Departement of Political Science of the University of Salzburg. My main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. In my dissertation, I am working on the relationship between citizens' conceptions of democracy, democratic discontent and voting behavior.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
