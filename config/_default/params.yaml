@@ -26,9 +26,9 @@ address:
   street: Rudolfskai 42
   postcode: '5020'
   city: 'Salzburg'
-  region:
+  region: 'Austria'
   country: 'Austria'
- # country_code: AT
+ country_code: 'AT'
 # coordinates:
  # latitude: ''
   #longitude: ''
