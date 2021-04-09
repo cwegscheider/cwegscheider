@@ -54,10 +54,10 @@ education:
       year: ""
     - course: MA Theory and Comparative Studies of Political Systems in Transition
       institution: University of Duisburg-Essen
-      year: 2
+      year: 2017
     - course: BA Political Science
       institution: University of Duisburg-Essen
-      year: ""
+      year: 2014
 email: ""
 superuser: true
 highlight_name: false
