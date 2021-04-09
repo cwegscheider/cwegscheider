@@ -27,7 +27,7 @@ address:
   city: Salzburg
   region: 
   postcode: '5020'
-  country: "Austria"
+  country: 'Austria'
  # country_code: AT
 # coordinates:
  # latitude: ''
