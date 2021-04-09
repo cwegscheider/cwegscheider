@@ -8,7 +8,7 @@
 theme: "Minimal"
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -27,7 +27,7 @@ address:
   city: Salzburg
   region: 
   postcode: '5020'
-  country: Austria
+  country: "Austria"
  # country_code: AT
 # coordinates:
  # latitude: ''
