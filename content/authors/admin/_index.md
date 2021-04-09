@@ -41,7 +41,7 @@ social:
     link: https://orcid.org/0000-0002-5425-7595
   - display:
       header: false
-    link: '"media/demo_resume.pdf"'
+    link: media/demo_resume.pdf
     icon_pack: ai
     icon: cv
 organizations:
