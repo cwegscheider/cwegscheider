@@ -3,7 +3,8 @@ title: Carsten Wegscheider
 role: PhD Fellow
 avatar_filename: avatar.jpg
 bio: ""
-interests: []
+interests:
+  - Comparative Politics
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,7 +33,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I am a political scientist and PhD Fellow at the Departement of Political Science of the University of Salzburg.
 
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
