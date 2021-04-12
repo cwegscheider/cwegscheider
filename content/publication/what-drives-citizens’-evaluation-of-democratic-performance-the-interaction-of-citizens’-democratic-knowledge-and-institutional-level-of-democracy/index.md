@@ -35,6 +35,8 @@ abstract: Alongside citizens’ belief in the legitimacy of democracy, public
   satisfaction with democracy as well as research on democratization.
 draft: false
 featured: true
+projects:
+  - Citizens' Conceptions of Democracy and Support for Radical Populist Parties
 image:
   filename: ""
   focal_point: Smart
