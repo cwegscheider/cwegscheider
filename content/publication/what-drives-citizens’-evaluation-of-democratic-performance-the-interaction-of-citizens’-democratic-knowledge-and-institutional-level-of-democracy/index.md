@@ -8,7 +8,7 @@ authors:
   - admin
   - Toralf Stark
 doi: https://doi.org/10.1007/s12286-020-00467-0
-publication: "*Zeitschrift für Vergleichende Politikwissenschaft*"
+publication: "*Zeitschrift für Vergleichende Politikwissenschaft* 14 (4)"
 publication_short: ""
 abstract: Alongside citizens’ belief in the legitimacy of democracy, public
   support for the political regime is crucial to the survival of (democratic)
@@ -35,8 +35,7 @@ abstract: Alongside citizens’ belief in the legitimacy of democracy, public
   satisfaction with democracy as well as research on democratization.
 draft: false
 featured: true
-projects:
-  - Citizens' Conceptions of Democracy and Support for Radical Populist Parties
+projects: []
 image:
   filename: ""
   focal_point: Smart
