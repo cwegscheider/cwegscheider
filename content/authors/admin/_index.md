@@ -41,7 +41,7 @@ social:
     link: https://orcid.org/0000-0002-5425-7595
   - display:
       header: false
-    link: media/demo_resume.pdf
+    link: media/CV.pdf
     icon_pack: ai
     icon: cv
 organizations:
@@ -64,4 +64,4 @@ highlight_name: false
 ---
 I am a political scientist at the Department of Political Science of the University of Salzburg. My main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. In my dissertation, I am working on the relationship between citizens' conceptions of democracy, democratic discontent and voting behavior.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
