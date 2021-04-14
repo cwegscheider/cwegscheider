@@ -7,8 +7,8 @@ bio: "Political scientist at the Department of Political Science of the
 interests:
   - Comparative politics
   - Democratization
-  - Elections
-  - Political parties
+  - Electoral politics
+  - Political parties and party youth
   - Democratic attitudes
   - Political behavior
 social:
