@@ -41,7 +41,7 @@ social:
     link: https://orcid.org/0000-0002-5425-7595
   - display:
       header: false
-    link: media/CV.pdf
+    link: CV.pdf
     icon_pack: ai
     icon: cv
 organizations:
