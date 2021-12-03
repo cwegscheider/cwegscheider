@@ -49,13 +49,13 @@ organizations:
     url: https://www.plus.ac.at/political-science-and-sociology/department-of-political-science/?lang=en
 education:
   courses:
-    - course: PhD Political Science, since 2018
+    - course: PhD in Political Science, since 2018
       institution: University of Salzburg
       year: ""
-    - course: MA Theory and Comparative Studies of Political Systems in Transition
+    - course: M.A. in Theory and Comparative Studies of Political Systems in Transition
       institution: University of Duisburg-Essen
       year: 2017
-    - course: BA Political Science
+    - course: B.A. in Political Science
       institution: University of Duisburg-Essen
       year: 2014
 email: ""
