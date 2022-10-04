@@ -62,6 +62,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a political scientist at the Institute of Political Science (IfPol) of the University of Münster. IMy main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. In my dissertation, I am working on the relationship between citizens' conceptions of democracy, democratic discontent and voting behavior.
+I am a political scientist at the Institute of Political Science (IfPol) of the University of Münster. My main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. In my dissertation, I am working on the relationship between citizens' conceptions of democracy, democratic discontent and voting behavior.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
