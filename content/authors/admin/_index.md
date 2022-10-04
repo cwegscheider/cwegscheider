@@ -1,9 +1,9 @@
 ---
 title: Carsten Wegscheider
-role: Doctoral Researcher
+role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
-bio: "Political scientist at the Department of Political Science of the
-  University of Salzburg. "
+bio: "Political scientist at the Institute of Political Science (IfPol) of the
+  University of Münster. "
 interests:
   - Comparative politics
   - Democratization
@@ -45,13 +45,13 @@ social:
     icon_pack: ai
     icon: cv
 organizations:
-  - name: University of Salzburg
-    url: https://www.plus.ac.at/political-science-and-sociology/department-of-political-science/?lang=en
+  - name: University of Münster
+    url: https://www.uni-muenster.de/IfPol/
 education:
   courses:
-    - course: PhD in Political Science, since 2018
+    - course: PhD in Political Science
       institution: University of Salzburg
-      year: ""
+      year: 2022
     - course: M.A. in Theory and Comparative Studies of Political Systems in Transition
       institution: University of Duisburg-Essen
       year: 2017
@@ -62,6 +62,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a political scientist at the Department of Political Science of the University of Salzburg. My main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. In my dissertation, I am working on the relationship between citizens' conceptions of democracy, democratic discontent and voting behavior.
+I am a political scientist at the Institute of Political Science (IfPol) of the University of Münster. IMy main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. In my dissertation, I am working on the relationship between citizens' conceptions of democracy, democratic discontent and voting behavior.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
