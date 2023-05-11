@@ -2,7 +2,7 @@
 title: Carsten Wegscheider
 role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
-bio: "Political scientist at the Institute of Political Science (IfPol) of the
+bio: "Political scientist at the Department of Political Science (IfPol) of the
   University of Münster. "
 interests:
   - Comparative politics
@@ -62,6 +62,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a political scientist at the Institute of Political Science (IfPol) of the University of Münster. My main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. I received my PhD from the University of Salzburg for my dissertation entitled Dissatisfied democrats? How citizens' policy discontent and conceptions of democracy relate to support for populist parties.
+I am a political scientist at the Department of Political Science (IfPol) of the University of Münster. My main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. I received my PhD from the University of Salzburg for my dissertation entitled Dissatisfied democrats? How citizens' policy discontent and conceptions of democracy relate to support for populist parties.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
