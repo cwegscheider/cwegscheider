@@ -31,9 +31,9 @@ social:
     link: https://github.com/cwegscheider
   - display:
       header: false
-    link: https://publons.com/researcher/2907272/carsten-wegscheider/
+    link: https://www.webofscience.com/wos/author/record/1613593
     icon_pack: ai
-    icon: publons
+    icon: clarivate
   - display:
       header: false
     icon_pack: ai
