@@ -26,14 +26,6 @@ social:
     link: https://www.researchgate.net/profile/Carsten-Wegscheider
     icon_pack: ai
     icon: researchgate
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/cwegscheider
-  - display:
-      header: false
-    link: https://www.webofscience.com/wos/author/record/1613593
-    icon_pack: ai
-    icon: clarivate
   - display:
       header: false
     icon_pack: ai
