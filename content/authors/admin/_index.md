@@ -1,7 +1,7 @@
 ---
 title: Carsten Wegscheider
 role: Postdoctoral Researcher
-avatar_filename: 36385d9c.jpg
+avatar_filename: avatar.jpg
 bio: "Political scientist at the Department of Political Science (IfPol) of the
   University of Münster. "
 interests:
