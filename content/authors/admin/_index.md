@@ -41,7 +41,7 @@ organizations:
     url: https://www.uni-muenster.de/IfPol/
 education:
   courses:
-    - course: PhD in Political Science
+    - course: Ph.D. in Political Science
       institution: University of Salzburg
       year: 2022
     - course: M.A. in Theory and Comparative Studies of Political Systems in Transition
@@ -54,6 +54,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a political scientist at the Department of Political Science (IfPol) of the University of Münster. My main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. I received my PhD from the University of Salzburg for my dissertation entitled "Dissatisfied democrats? How citizens' policy discontent and conceptions of democracy relate to support for populist parties".
+I am a political scientist at the Department of Political Science (IfPol) of the University of Münster. My main area of research is comparative politics with an interest in democratization, political parties, political sociology and psychology. I received my Ph.D. from the University of Salzburg for my dissertation entitled "Dissatisfied democrats? How citizens' policy discontent and conceptions of democracy relate to support for populist parties".
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
