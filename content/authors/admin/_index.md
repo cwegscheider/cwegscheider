@@ -54,6 +54,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a political scientist at the Department of Political Science (IfPol) of the University of Münster. My main area of research is comparative politics with an interest in democratization, political parties, political behavior, and populism. I hold a Dr. phil. in Political Science from the University of Salzburg, based on my dissertation "Dissatisfied democrats? How citizens' policy discontent and conceptions of democracy relate to support for populist parties".
+I am a political scientist in the Department of Political Science (IfPol) at the University of Münster. My research focuses on comparative politics, with a particular interest in how political parties and citizens understand, reproduce, and challenge democracy. My work examines the drivers of democratic backsliding and resilience, support for (populist) parties, and the foundations of political and democratic attitudes. My research has been published in the *European Journal of Political Research*, *West European Politics*, *Party Politics*, and *Political Studies*, among others.
+
+I hold a Dr. phil. in Political Science from the University of Salzburg, based on my dissertation "Dissatisfied democrats? How citizens' policy discontent and conceptions of democracy relate to support for populist parties".
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
