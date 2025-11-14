@@ -7,7 +7,7 @@ bio: "Political scientist at the Department of Political Science (IfPol) of the
 interests:
   - Comparative politics
   - Democratic backsliding and resilience
-  - Political parties and youth organizations
+  - Political parties and youth wings
   - Populism and extremism
   - Democratic attitudes
   - Political behavior
