@@ -6,9 +6,9 @@ bio: "Political scientist at the Department of Political Science (IfPol) of the
   University of Münster. "
 interests:
   - Comparative politics
-  - Democratization
-  - Electoral politics
-  - Political parties and party youth
+  - Democratic backsliding and resilience
+  - Political parties and youth organizations
+  - Populism and extremism
   - Democratic attitudes
   - Political behavior
 social:
